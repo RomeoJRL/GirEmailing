@@ -16,6 +16,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   $subject = $_POST['subject'];
   $message = $_POST['message'];
 
+  $mail = new PHPMailer(true);
 
 
   //$hashed_password = password_hash($password, PASSWORD_DEFAULT);
