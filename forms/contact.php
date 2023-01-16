@@ -325,7 +325,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                                             style="font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #C059FF; line-height: 1.2;">
                                                                             <p
                                                                                 style="margin: 0; font-size: 12px; text-align: left; mso-line-height-alt: 14.399999999999999px;">
-                                                                                <strong><span style="font-size:14px;color: #B1AED1;">' . $email . '</span></strong></p>
+                                                                                <strong><span style="font-size:14px;color: #B1AED1;text-decoration: none;">' . $email . '</span></strong></p>
                                                                         </div>
                                                                     </div>
                                                                 </td>
