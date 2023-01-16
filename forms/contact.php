@@ -229,7 +229,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                                     style="width:100%;padding-right:0px;padding-left:0px;">
                                                                     <div align="center" class="alignment"
                                                                         style="line-height:10px"><img alt="Image"
-                                                                            class="big" src="https://emailgir.herokuapp.com/forms/Top.png"
+                                                                            class="big" src="https://github.com/RomeoJRL/GirEmailing/forms/Top.png"
                                                                             style="display: block; height: auto; border: 0; width: 650px; max-width: 100%;"
                                                                             title="Image" width="650" /></div>
                                                                 </td>
@@ -266,7 +266,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                                     style="padding-left:20px;padding-top:10px;width:100%;padding-right:0px;padding-bottom:5px;">
                                                                     <div align="center" class="alignment"
                                                                         style="line-height:10px"><img alt="Image"
-                                                                            src="https://emailgir.herokuapp.com/forms/pfl.jpg"
+                                                                            src="https://github.com/RomeoJRL/GirEmailing/forms/pfl.jpg"
                                                                             style="display: block; height: auto; border: 0; width: 276px; max-width: 100%;"
                                                                             title="Image" width="276" /></div>
                                                                 </td>
@@ -385,7 +385,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                                                         href=""
                                                                                         target="_blank"><img alt="Facebook"
                                                                                             height="32"
-                                                                                            src="https://emailgir.herokuapp.com/forms/facebook2x.png"
+                                                                                            src="https://github.com/RomeoJRL/GirEmailing/forms/facebook2x.png"
                                                                                             style="display: block; height: auto; border: 0;"
                                                                                             title="Facebook"
                                                                                             width="32" /></a></td>
@@ -393,7 +393,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                                                         href=""
                                                                                         target="_blank"><img alt="Twitter"
                                                                                             height="32"
-                                                                                            src="https://emailgir.herokuapp.com/forms/twitter2x.png"
+                                                                                            src="https://github.com/RomeoJRL/GirEmailing/forms/twitter2x.png"
                                                                                             style="display: block; height: auto; border: 0;"
                                                                                             title="Twitter"
                                                                                             width="32" /></a></td>
@@ -401,7 +401,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                                                         href=""
                                                                                         target="_blank"><img alt="Instagram"
                                                                                             height="32"
-                                                                                            src="https://emailgir.herokuapp.com/forms/instagram2x.png"
+                                                                                            src="https://github.com/RomeoJRL/GirEmailing/forms/instagram2x.png"
                                                                                             style="display: block; height: auto; border: 0;"
                                                                                             title="Instagram"
                                                                                             width="32" /></a></td>
@@ -409,7 +409,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                                                         href=""
                                                                                         target="_blank"><img alt="LinkedIn"
                                                                                             height="32"
-                                                                                            src="https://emailgir.herokuapp.com/forms/linkedin2x.png"
+                                                                                            src="https://github.com/RomeoJRL/GirEmailing/forms/linkedin2x.png"
                                                                                             style="display: block; height: auto; border: 0;"
                                                                                             title="LinkedIn"
                                                                                             width="32" /></a></td>
@@ -450,7 +450,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                                     style="width:100%;padding-right:0px;padding-left:0px;">
                                                                     <div align="center" class="alignment"
                                                                         style="line-height:10px"><img alt="Image"
-                                                                            class="big" src="https://emailgir.herokuapp.com/forms/Btm.png"
+                                                                            class="big" src="https://github.com/RomeoJRL/GirEmailing/forms/Btm.png"
                                                                             style="display: block; height: auto; border: 0; width: 650px; max-width: 100%;"
                                                                             title="Image" width="650" /></div>
                                                                 </td>
